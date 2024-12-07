@@ -14,6 +14,8 @@ this is the usePopcorn app, this application is all about movies using hooks, yo
 ### 2) 
 ![movie2](https://github.com/user-attachments/assets/89199a99-b6c3-4fa5-9f14-6f0cfeb1fba1)
 
+### 3) 
+![movie3](https://github.com/user-attachments/assets/ee8f5c40-188b-43d7-af1c-099cbb86ce74)
 
 
 

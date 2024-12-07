@@ -1,7 +1,7 @@
 # usePopcorn-App
 this is the usePopcorn app, this application is all about movies using hooks, you can search for movies, let's say one of my all-time favorite movies called Inception, and this is now loading these movies here from a real API.Then you can rate the movie.
 
- ## Visit Now ==>
+ ## Visit Now ==> https://use-popcorn-one-bice.vercel.app/
 
 
 # Getting Started with Create React App

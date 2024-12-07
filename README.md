@@ -8,6 +8,14 @@ this is the usePopcorn app, this application is all about movies using hooks, yo
 
 
 # ScreenShots
+### 1) 
+![movie1](https://github.com/user-attachments/assets/b4368697-98da-4fca-b2b9-a2f659b1dfd8)
+
+
+
+
+
+
 
 # Getting Started with Create React App
 

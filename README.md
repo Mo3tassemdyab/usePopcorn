@@ -6,6 +6,9 @@ this is the usePopcorn app, this application is all about movies using hooks, yo
  ## API used
 ### OMDb API ==> https://www.omdbapi.com/
 
+
+# ScreenShots
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

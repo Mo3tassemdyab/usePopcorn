@@ -3,6 +3,8 @@ this is the usePopcorn app, this application is all about movies using hooks, yo
 
  ## Visit Now ==> https://use-popcorn-one-bice.vercel.app/
 
+ ## API used
+### OMDb API ==>
 
 # Getting Started with Create React App
 
